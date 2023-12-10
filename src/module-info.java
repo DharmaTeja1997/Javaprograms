@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Dharma
+ *
+ */
+module corejava {
+}
